@@ -1,4 +1,4 @@
-🗂️ Sistema de Cadastro: Conectando Python a um Banco de Dados Real (MySQL)
+# 🗂️ Sistema de Cadastro: Conectando Python a um Banco de Dados Real (MySQL)
 
 Neste projeto, desenvolvi um sistema de cadastro em Python que se comunica diretamente com um banco de dados MySQL. A proposta foi sair do conceito de dados “temporários” e trabalhar com informações persistentes, simulando um cenário real de sistemas corporativos.
 
